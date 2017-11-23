@@ -1,6 +1,6 @@
 {
     "name": "react-native-responsive-ui-gobiz",
-    "version": "0.0.3-development",
+    "version": "0.0.5-development",
     "main": "lib/index.js",
     "description": "Responsive UIs for React Native",
     "author": "William Candillon <wcandillon@gmail.com>",
